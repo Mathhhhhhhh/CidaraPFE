@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"C:\\\\Users\\\\ludov\\\\AppData\\\\Roaming\\\\Claude\\\\local-agent-mode-sessions\\\\skills-plugin\\\\e90d860d-3d2f-4192-b01c-a17dd5efe8fc\\\\5b45d62a-66ee-4aba-b636-73fc666d7b86\\\\skills\\\\niagara\")",
+      "PowerShell(python3 --version 2>&1)",
+      "PowerShell(py --version 2>&1)"
+    ]
+  }
+}
